@@ -1,0 +1,35 @@
+.yolo {
+  border-radius: 50%;
+  padding: 20px;
+  border-width:3px;
+  border-color: black;
+  text-align: center;
+}
+
+h1 {
+  padding-left: 100px;
+font-size: 40px;
+  font-family: 'Megrim', cursive;
+}
+
+#nav {
+  width: 100%;
+  float: left;
+  margin: 0 0 3em 0;
+  padding: 0;
+  list-style: none;
+  background-color: #f2f2f2;
+  border-bottom: 1px solid #ccc;
+  border-top: 1px solid #ccc;
+  font-family: 'Megrim', cursive;
+  display:
+}
+
+#popular {
+  text-align: center;
+}
+
+#search {
+  margin-left: 100px;
+  margin-bottom: 10px;
+}
